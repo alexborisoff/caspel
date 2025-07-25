@@ -1,4 +1,4 @@
-import './EditableTable.css'; // подключи стили, которые я дал ниже
+import './EditableTable.css'; 
 import React, { useState, useMemo } from 'react';
 import {
     Table,
