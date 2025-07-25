@@ -1,4 +1,4 @@
-import './EditableTable.css'; 
+import './EditableTable.css';
 import React, { useState, useMemo } from 'react';
 import {
     Table,
@@ -8,8 +8,8 @@ import {
     Input,
     DatePicker,
     InputNumber,
-    Space,
     Popconfirm,
+    Space,
 } from 'antd';
 import {
     EditOutlined,
